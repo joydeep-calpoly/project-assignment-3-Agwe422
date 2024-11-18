@@ -1,0 +1,21 @@
+Nov 17, 2024 5:10:13 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/newsapi.json
+Nov 17, 2024 5:10:13 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/simple.json
+Nov 17, 2024 5:11:31 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/newsapi.json
+Nov 17, 2024 5:11:31 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/simple.json
+Nov 17, 2024 5:12:05 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/newsapi.json
+Nov 17, 2024 5:12:05 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: src/inputs/simple.json
+Nov 17, 2024 5:18:18 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)
+ at [Source: (String)"/Users/JoshH./IdeaProjects/project-assignment-3-Agwe422/project_3/src/inputs/newsapi.json"; line: 1, column: 2]
+Nov 17, 2024 5:25:09 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: Unexpected character ('/' (code 47)): maybe a (non-standard) comment? (not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser)
+ at [Source: (String)"/Users/JoshH./IdeaProjects/project-assignment-3-Agwe422/project_3/src/inputs/newsapi.json"; line: 1, column: 2]
+Nov 17, 2024 5:33:28 PM ArticleParser.ArticleParser parse
+WARNING: Failed to parse JSON: Unexpected character ('U' (code 85)): was expecting either '*' or '/' for a comment
+ at [Source: (String)"/Users/JoshH./IdeaProjects/project-assignment-3-Agwe422/project_3/src/inputs/newsapi.json"; line: 1, column: 3]
